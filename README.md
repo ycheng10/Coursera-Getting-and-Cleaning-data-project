@@ -1,5 +1,5 @@
 # Getting and Cleaning Data - Course Project
-----------------------------------------------
+-----------------------------------------------
 
 * The R script, "run_analysis.R", does the following per Project's specifications:
    1. Merges the training and the test sets to create one data set.
