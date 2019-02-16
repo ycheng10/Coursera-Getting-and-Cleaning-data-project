@@ -75,3 +75,4 @@ FinalTidyData <- TidyData %>%
 
 write.table(FinalTidyData, "Tidy.txt", row.name=FALSE)
 
+# Upload "Tidy.txt" to Github account for Peer review
