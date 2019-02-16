@@ -30,7 +30,6 @@ x_train <- read.table("UCI HAR Dataset/train/X_train.txt", col.names = features$
 y_train <- read.table("UCI HAR Dataset/train/y_train.txt", col.names = "code")
 
 
-
 # in this "run_analysis.R", it does the following five required tasks.
 # (Step 1) Merges the training and the test sets to create one data set.
 #------------------------------------------------------------------------------------------------
