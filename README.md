@@ -1,7 +1,5 @@
 # Getting and Cleaning Data - Course Project
-
-# Files 
-#----------------------------------------------------------------------------------------
+----------------------------------------------
 
 * The R script, "run_analysis.R", does the following 5 tasks per Project's specifications:
 
