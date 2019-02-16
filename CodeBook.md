@@ -93,8 +93,8 @@
 * FrequencyBodyGyroscopeJerkMagnitude.std..
 
 
-Activity labels:
------------------------
+# Activity labels:
+------------------------
 1. Walking
 2. Walking_upstairs
 3. Walking_downstairs
