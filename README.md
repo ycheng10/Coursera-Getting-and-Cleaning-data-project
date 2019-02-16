@@ -1,8 +1,7 @@
 # Getting and Cleaning Data - Course Project
 ----------------------------------------------
 
-* The R script, "run_analysis.R", does the following 5 tasks per Project's specifications:
-   ~ pre-load the data files 
+* The R script, "run_analysis.R", does the following per Project's specifications:
    1. Merges the training and the test sets to create one data set.
    2. Extracts only the measurements on the mean and standard deviation for each measurement.
    3. Uses descriptive activity names to name the activities in the data set.
